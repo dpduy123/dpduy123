@@ -23,7 +23,7 @@ A Machine Learning enthusiast and Full Stack Developer from Vietnam.
 ---
 
 ## 📫 How to reach me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Toikhonghutthuoc)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/Toikhonghutthuoc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ph%C6%B0%C6%A1ng-duy-%C4%91%E1%BB%97-6a7844323/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:dpduy1230901tl@gmail.com)
 
