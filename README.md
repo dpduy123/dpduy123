@@ -6,9 +6,9 @@ A Machine Learning enthusiast and Full Stack Developer from Vietnam.
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, SQL
-- **Frameworks:** Flask, scikit-learn
-- **Database:** PostgreSQL
+- **Languages:** Python, JavaScript, SQL, Go
+- **Frameworks:** Flask, scikit-learn, React, Node, Next.
+- **Database:** PostgreSQL, MongoDB, Firebase
 - **Tools:** Git, VS Code, Docker
 
 ---
