@@ -21,7 +21,7 @@ A Machine Learning enthusiast and Full Stack Developer from Vietnam.
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ph%C6%B0%C6%A1ng-duy-%C4%91%E1%BB%97-6a7844323/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:your.email@example.com)
 
 ---
