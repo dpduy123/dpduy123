@@ -14,8 +14,7 @@
   </div>
 </div>
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpduy123&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ---
 ## 🛠️ Tech Stack
 
@@ -48,9 +47,6 @@
 
 ### 🛠️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ---
 ### ☁️ Cloud
